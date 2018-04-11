@@ -1,0 +1,11 @@
+/*Changing the headline color to Red and underline it*/
+
+h1 {
+	text-decoration: underline;
+	color: #850303
+
+
+}
+img{
+	float: left;
+}
